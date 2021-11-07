@@ -1,2 +1,3 @@
-# neuro-snake
-Unity 3D snake game with NeuroSky MindWave and Tobii Eye Tracker controlls. 
+# TODO
+
+- [ ] port source code from Unity version 2018 to the newest version and push it here
